@@ -1,1 +1,3 @@
-Creo una primera linea en el archivo_a.txt
+Creo una 1era linea en el archivo_a.txt
+creo otra segunra linea
+tercera linea

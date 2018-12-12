@@ -1,2 +1,4 @@
+
 Creo una primera linea en archivo_b
 
+Creo una segunda line a de prueba_b
